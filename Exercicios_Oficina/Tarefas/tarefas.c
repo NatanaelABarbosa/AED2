@@ -26,17 +26,6 @@ typedef struct {
     int n ; // numero de tarefas na lista
 } ListaBackground ;
 
-/*
-Tarefa * newTarefa(int id, int prioridade) {
-    Tarefa * t = NULL;
-    if (id > 0 && 0 <= prioridade && prioridade <= 10) {
-        t->id = id;
-        t->prioridade = prioridade;
-    }
-    return t;
-}
-*/
-
 void empilharEmergencia(Tarefa t, PilhaEmergencia * p) {
     if (p->n < MAX_EMERGENCIA) {
         p->pilha[p->n] = t;
@@ -94,9 +83,45 @@ void mostrarPeriodica(FilaPeriodica * f) {
     } else printf("\nFila Vazia\n");
 }
 
-void inserirBackground(Tarefa t);
+void inserirBackground(Tarefa t, ListaBackground * b) {
+	int j = 0;
 
-Tarefa removerBackground();
+	if (b->n < MAX_BACKGROUND) {
+		if (b->n != 0) {
+			for (int i = 0; i < b->n; i++) {
+				if (b->lista[i].prioridade > t.prioridade) {
+					for (j = b->n; j > i; j--) b->lista[j] = b->lista[j-1];
+					i = b->n;
+				}
+			}
+		}
+		b->lista[j] = t; b->n++;
+	}
+}
+
+Tarefa removerBackground(int id, ListaBackground * b) {
+	Tarefa t;
+	t.id = -1;
+	t.prioridade = -1;
+
+	if (b->n > 0) {
+		for (int i = 0; i < b->n; i++) {
+			if (b->lista[i].id == id) {
+				for (int j = i; j < b->n; j++) b->lista[j] = b->lista[j+1];
+				i = b->n;
+			}
+		}
+	}
+	return t;
+}
+
+Tarefa mostrarBackground(ListaBackground * b) {	
+    if (b->n > 0) {
+        for (int i = 0; i < b->n; i++) {
+            printf("t%d: %d|%d\n", i+1, b->lista[i].id, b->lista[i].prioridade);
+        }
+    } else printf("\nLista Vazia\n");
+}
 
 Tarefa processarTarefa (PilhaEmergencia * p, FilaPeriodica * f, ListaBackground * l);
 void promoverTarefa (PilhaEmergencia * p, ListaBackground * l, int id) ;
@@ -104,7 +129,8 @@ void imprimirEstruturas (PilhaEmergencia * p , FilaPeriodica * f, ListaBackgroun
 
 int main (void) {
     PilhaEmergencia * p = malloc(sizeof(PilhaEmergencia));
-    FilaPeriodica * f = malloc(sizeof(FilaPeriodica));
+    FilaPeriodica * f   = malloc(sizeof(FilaPeriodica));
+    ListaBackground * b = malloc(sizeof(ListaBackground));
     int opcao = 0;
     Tarefa t;
     int n = 0;
@@ -114,7 +140,9 @@ int main (void) {
         printf("1. Adicionar pilha\n");
         printf("2. Remover pilha\n");
         printf("3. Adicionar fila\n");
-        printf("4. Remover fila\n\n");
+        printf("4. Remover fila\n");
+        printf("5. Adicionar lista\n");
+        printf("6. Remover lista\n");
         printf("Escolha uma opcao: ");
         scanf("%d", &opcao);
         printf("\n");
@@ -164,6 +192,33 @@ int main (void) {
                 
                 mostrarPeriodica(f);
             break;
+	    case 5:	
+                printf("id: ");
+                scanf("%d", &n); 
+                t.id = n;
+                
+                printf("prioridade (0 a 10): ");
+                scanf("%d", &n);
+                t.prioridade = n;
+
+                printf("\n");
+                inserirBackground(t, b);
+                mostrarBackground(b);
+                
+                printf("\n");
+
+	    break;
+	    case 6: 
+	    	int id = 0;
+
+		printf("Id: ");
+		scanf("%d", &id);
+                t = removerBackground(id, b);
+                if (t.prioridade != -1) printf("removido: %d (id), %d (prioridade)\n\n", t.id, t.prioridade);
+                else printf("nenhuma tarefa removida\n");
+                
+                mostrarBackground(b);
+	    break;
             default: break;
         }
         printf("\nAPERTE ENTER PARA CONTINUAR\n"); getchar(); getchar();
