@@ -15,7 +15,7 @@ public class Data {
 	}
 
 	public String format() {
-		return String.format("%d/%d/%d", dia, mes, ano);
+		return String.format("%02d/%02d/%d", dia, mes, ano);
 	}
 }
 

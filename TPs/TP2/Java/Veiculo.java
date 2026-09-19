@@ -35,8 +35,8 @@ public class Veiculo {
 		v.consumoEstrada = Helper.strToDouble(dados[11]);
 		v.co2 =            Helper.strToDouble(dados[12]);
 		v.dataRegistro =   Data.parseData(dados[14]);
-
-		if (dados[13] == "true") v.turbo = true;
+	
+		if (dados[13].equals("true")) v.turbo = true;
 		else v.turbo = false;
 
 		return v;
@@ -54,7 +54,30 @@ public class Veiculo {
 		if (turbo) strTurbo = "true";
 		else strTurbo = "false";
 
-		return String.format("[%d ## %s ## %s ## %d ## %s ## [%s] ## %d ## %f ## %s ## %s ## %f ## %f ## %f ## %s ## %s]", id, marca, modelo, ano, categoria, strCombustivel, cilindros, cilindrada, transmissao, tracao, consumoCidade, consumoEstrada, co2, strTurbo, dataRegistro.format());
+		return String.format("[%d ## %s ## %s ## %d ## %s ## [%s] ## %d ## %.1f ## %s ## %s ## %.2f ## %.2f ## %.1f ## %s ## %s]", id, marca, modelo, ano, categoria, strCombustivel, cilindros, cilindrada, transmissao, tracao, consumoCidade, consumoEstrada, co2, strTurbo, dataRegistro.format());
+	}
+	
+	public static Veiculo searchById(Veiculo[] veiculos, int id) {
+		Veiculo res = null;
+		
+		for (int i = 0; i < veiculos.length; i++) {
+			if (veiculos[i].getId() == id) 
+			{ res = veiculos[i]; i = veiculos.length; } 
+		}
+
+		return res;
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public String getMarca() {
+		return marca;
+	}
+
+	public double getCilindrada() {
+		return cilindrada;
 	}
 }
 

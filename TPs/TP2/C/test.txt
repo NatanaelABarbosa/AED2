@@ -1,0 +1,1138 @@
+0. 228i Gran Coupe
+1. 230i Coupe
+2. 370Z
+3. 500 L
+4. 550i xDrive
+5. 718 Cayman
+6. 718 Cayman GT4
+7. 911 C4 GTS
+8. 911 Targa 4
+9. 911 Targa 4S
+10. Aventador Sian Roadster
+11. C 300 (Coupe)
+12. C 300 4MATIC (Coupe)
+13. C30 FWD
+14. Cayman S
+15. CC
+16. Civic Hybrid
+17. COOPER HARDTOP 4 DOOR
+18. Corvette
+19. CTS
+20. F-TYPE S AWD Convertible
+21. G70 AWD
+22. Golf R
+23. Huracan 2WD
+24. Huracan Spyder 2WD
+25. i3 BEV
+26. Jaguar XK
+27. Jetta
+28. LANCER EVOLUTION
+29. M240i Coupe
+30. Metro
+31. Mini Cooper
+32. MUSTANG HO COUPE
+33. Portofino
+34. R8
+35. R8 Spyder
+36. R8 Spyder
+37. RC 300
+38. RC 300 AWD
+39. REGAL
+40. S 560 (convertible)
+41. tC
+42. TL 4WD
+43. TLX FWD
+44. TTS Coupe
+45. V8 Vantage
+46. V8 Vantage S
+47. Vantage Manual
+48. VERSA
+49. Z4 sDrive28i
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+ANTES: 911 Carrera 4 Cabriolet len=24
+DEPOIS: 911 Carrera 4 Cabriolet len=24
+NAO
+
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+ANTES: E 450 (coupe) len=14
+DEPOIS: E 450 (coupe) len=14
+NAO
+
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+ANTES: Q60 RED SPORT len=14
+DEPOIS: Q60 RED SPORT len=14
+NAO
+
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+ANTES: X5 4.8i len=8
+DEPOIS: X5 4.8i len=8
+NAO
+
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+ANTES: 550i xDrive len=12
+DEPOIS: 550i xDrive len=12
+NAO
+
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+ANTES: MUSTANG MACH 1 len=15
+DEPOIS: MUSTANG MACH 1 len=15
+NAO
+
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+ANTES: REGAL len=6
+DEPOIS: REGAL len=6
+NAO
+
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+ANTES: Grand Cherokee 4WD len=19
+DEPOIS: Grand Cherokee 4WD len=19
+NAO
+
+ANTES: Mini Cooper Roadster len=21
+DEPOIS: Mini Cooper Roadster len=21
+ANTES: Mini Cooper Roadster len=21
+DEPOIS: Mini Cooper Roadster len=21
+ANTES: Mini Cooper Roadster len=21
+DEPOIS: Mini Cooper Roadster len=21
+ANTES: Mini Cooper Roadster len=21
+DEPOIS: Mini Cooper Roadster len=21
+ANTES: Mini Cooper Roadster len=21
+DEPOIS: Mini Cooper Roadster len=21
+NAO
+
+ANTES: Mini Cooper S Convertible len=26
+DEPOIS: Mini Cooper S Convertible len=26
+ANTES: Mini Cooper S Convertible len=26
+DEPOIS: Mini Cooper S Convertible len=26
+ANTES: Mini Cooper S Convertible len=26
+DEPOIS: Mini Cooper S Convertible len=26
+ANTES: Mini Cooper S Convertible len=26
+DEPOIS: Mini Cooper S Convertible len=26
+ANTES: Mini Cooper S Convertible len=26
+DEPOIS: Mini Cooper S Convertible len=26
+NAO
+
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+ANTES: Mini John Cooper Works Conv len=28
+DEPOIS: Mini John Cooper Works Conv len=28
+NAO
+
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+ANTES: CX-3 2WD len=9
+DEPOIS: CX-3 2WD len=9
+NAO
+
+ANTES: Sentra/200SX len=13
+DEPOIS: Sentra/200SX len=13
+ANTES: Sentra/200SX len=13
+DEPOIS: Sentra/200SX len=13
+ANTES: Sentra/200SX len=13
+DEPOIS: Sentra/200SX len=13
+ANTES: Sentra/200SX len=13
+DEPOIS: Sentra/200SX len=13
+ANTES: Sentra/200SX len=13
+DEPOIS: Sentra/200SX len=13
+NAO
+
+ANTES: SLS AMG len=8
+DEPOIS: SLS AMG len=8
+ANTES: SLS AMG len=8
+DEPOIS: SLS AMG len=8
+ANTES: SLS AMG len=8
+DEPOIS: SLS AMG len=8
+ANTES: SLS AMG len=8
+DEPOIS: SLS AMG len=8
+ANTES: SLS AMG len=8
+DEPOIS: SLS AMG len=8
+NAO
+
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+ANTES: A4 S line quattro len=18
+DEPOIS: A4 S line quattro len=18
+NAO
+
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+ANTES: A8 len=3
+DEPOIS: A8 len=3
+NAO
+
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+ANTES: CT4 AWD len=8
+DEPOIS: CT4 AWD len=8
+NAO
+
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+ANTES: AMG C 43 4MATIC (convertible) len=30
+DEPOIS: AMG C 43 4MATIC (convertible) len=30
+NAO
+
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+ANTES: AMG E53 4MATIC+ (Coupe) len=24
+DEPOIS: AMG E53 4MATIC+ (Coupe) len=24
+NAO
+
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+ANTES: Fit len=4
+DEPOIS: Fit len=4
+NAO
+
+ANTES: C 300 4MATIC (convertible) len=27
+DEPOIS: C 300 4MATIC (convertible) len=27
+ANTES: C 300 4MATIC (convertible) len=27
+DEPOIS: C 300 4MATIC (convertible) len=27
+ANTES: C 300 4MATIC (convertible) len=27
+DEPOIS: C 300 4MATIC (convertible) len=27
+ANTES: C 300 4MATIC (convertible) len=27
+DEPOIS: C 300 4MATIC (convertible) len=27
+ANTES: C 300 4MATIC (convertible) len=27
+DEPOIS: C 300 4MATIC (convertible) len=27
+NAO
+
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+ANTES: R8 len=3
+DEPOIS: R8 len=3
+NAO
+
+ANTES: LACROSSE len=9
+DEPOIS: LACROSSE len=9
+ANTES: LACROSSE len=9
+DEPOIS: LACROSSE len=9
+ANTES: LACROSSE len=9
+DEPOIS: LACROSSE len=9
+ANTES: LACROSSE len=9
+DEPOIS: LACROSSE len=9
+ANTES: LACROSSE len=9
+DEPOIS: LACROSSE len=9
+NAO
+
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+ANTES: M440i Convertible len=18
+DEPOIS: M440i Convertible len=18
+NAO
+
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+ANTES: CTS len=4
+DEPOIS: CTS len=4
+NAO
+
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+ANTES: M340i len=6
+DEPOIS: M340i len=6
+NAO
+
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+ANTES: 911 Turbo Cabriolet len=20
+DEPOIS: 911 Turbo Cabriolet len=20
+NAO
+
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+ANTES: Aventador Sian Coupe len=21
+DEPOIS: Aventador Sian Coupe len=21
+NAO
+
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+ANTES: Vantage Manual len=15
+DEPOIS: Vantage Manual len=15
+NAO
+
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+ANTES: Z4 sDrive30i len=13
+DEPOIS: Z4 sDrive30i len=13
+NAO
+
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+ANTES: Continental Flying Spur len=24
+DEPOIS: Continental Flying Spur len=24
+NAO
+
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+ANTES: TTS Coupe len=10
+DEPOIS: TTS Coupe len=10
+NAO
+
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+ANTES: AMG GT C (roadster) len=20
+DEPOIS: AMG GT C (roadster) len=20
+NAO
+
+ANTES: 430i xDrive Coupe len=18
+DEPOIS: 430i xDrive Coupe len=18
+ANTES: 430i xDrive Coupe len=18
+DEPOIS: 430i xDrive Coupe len=18
+ANTES: 430i xDrive Coupe len=18
+DEPOIS: 430i xDrive Coupe len=18
+ANTES: 430i xDrive Coupe len=18
+DEPOIS: 430i xDrive Coupe len=18
+ANTES: 430i xDrive Coupe len=18
+DEPOIS: 430i xDrive Coupe len=18
+NAO
+
+ANTES: TT Roadster quattro len=20
+DEPOIS: TT Roadster quattro len=20
+ANTES: TT Roadster quattro len=20
+DEPOIS: TT Roadster quattro len=20
+ANTES: TT Roadster quattro len=20
+DEPOIS: TT Roadster quattro len=20
+ANTES: TT Roadster quattro len=20
+DEPOIS: TT Roadster quattro len=20
+ANTES: TT Roadster quattro len=20
+DEPOIS: TT Roadster quattro len=20
+NAO
+
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+ANTES: 230i Convertible len=17
+DEPOIS: 230i Convertible len=17
+NAO
+
+ANTES: C 300 (Coupe) len=14
+DEPOIS: C 300 (Coupe) len=14
+ANTES: C 300 (Coupe) len=14
+DEPOIS: C 300 (Coupe) len=14
+ANTES: C 300 (Coupe) len=14
+DEPOIS: C 300 (Coupe) len=14
+ANTES: C 300 (Coupe) len=14
+DEPOIS: C 300 (Coupe) len=14
+ANTES: C 300 (Coupe) len=14
+DEPOIS: C 300 (Coupe) len=14
+NAO
+
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+ANTES: 718 Cayman T len=13
+DEPOIS: 718 Cayman T len=13
+NAO
+
+ANTES: S 560 (convertible) len=20
+DEPOIS: S 560 (convertible) len=20
+ANTES: S 560 (convertible) len=20
+DEPOIS: S 560 (convertible) len=20
+ANTES: S 560 (convertible) len=20
+DEPOIS: S 560 (convertible) len=20
+ANTES: S 560 (convertible) len=20
+DEPOIS: S 560 (convertible) len=20
+ANTES: S 560 (convertible) len=20
+DEPOIS: S 560 (convertible) len=20
+NAO
+
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+ANTES: LC 500h len=8
+DEPOIS: LC 500h len=8
+NAO
+
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+ANTES: 328d len=5
+DEPOIS: 328d len=5
+NAO
+
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+ANTES: G70 AWD len=8
+DEPOIS: G70 AWD len=8
+NAO
+
+ANTES: S5 len=3
+DEPOIS: S5 len=3
+ANTES: S5 len=3
+DEPOIS: S5 len=3
+ANTES: S5 len=3
+DEPOIS: S5 len=3
+ANTES: S5 len=3
+DEPOIS: S5 len=3
+ANTES: S5 len=3
+DEPOIS: S5 len=3
+NAO
+
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+ANTES: COOPER CONVERTIBLE len=19
+DEPOIS: COOPER CONVERTIBLE len=19
+NAO
+
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+ANTES: Gallardo Coupe len=15
+DEPOIS: Gallardo Coupe len=15
+NAO
+
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+ANTES: 9-3 SPORT SEDAN len=16
+DEPOIS: 9-3 SPORT SEDAN len=16
+NAO
+
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+ANTES: AMG A 35 4MATIC len=16
+DEPOIS: AMG A 35 4MATIC len=16
+NAO
+
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+ANTES: 911 Turbo len=10
+DEPOIS: 911 Turbo len=10
+NAO
+
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+ANTES: Virage len=7
+DEPOIS: Virage len=7
+NAO
+
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+ANTES: FORD GT len=8
+DEPOIS: FORD GT len=8
+NAO
+
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+ANTES: Continental Supersports len=24
+DEPOIS: Continental Supersports len=24
+NAO
+
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+ANTES: A4 quattro len=11
+DEPOIS: A4 quattro len=11
+NAO
+
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+ANTES: M240i Convertible len=18
+DEPOIS: M240i Convertible len=18
+NAO
+
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+ANTES: F-TYPE S Convertible len=21
+DEPOIS: F-TYPE S Convertible len=21
+NAO
+
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+ANTES: RC 300 AWD len=11
+DEPOIS: RC 300 AWD len=11
+NAO
+
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+ANTES: 370Z ROADSTER len=14
+DEPOIS: 370Z ROADSTER len=14
+NAO
+
+ANTES: John Cooper Works GP len=21
+DEPOIS: John Cooper Works GP len=21
+ANTES: John Cooper Works GP len=21
+DEPOIS: John Cooper Works GP len=21
+ANTES: John Cooper Works GP len=21
+DEPOIS: John Cooper Works GP len=21
+ANTES: John Cooper Works GP len=21
+DEPOIS: John Cooper Works GP len=21
+ANTES: John Cooper Works GP len=21
+DEPOIS: John Cooper Works GP len=21
+NAO
+
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+ANTES: CAMRY len=6
+DEPOIS: CAMRY len=6
+NAO
+
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+ANTES: 718 Boxster S len=14
+DEPOIS: 718 Boxster S len=14
+NAO
+
+ANTES: Corvette E-Ray len=15
+DEPOIS: Corvette E-Ray len=15
+ANTES: Corvette E-Ray len=15
+DEPOIS: Corvette E-Ray len=15
+ANTES: Corvette E-Ray len=15
+DEPOIS: Corvette E-Ray len=15
+ANTES: Corvette E-Ray len=15
+DEPOIS: Corvette E-Ray len=15
+ANTES: Corvette E-Ray len=15
+DEPOIS: Corvette E-Ray len=15
+NAO
+
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+ANTES: A6 quattro len=11
+DEPOIS: A6 quattro len=11
+NAO
+
+ANTES: tC len=3
+DEPOIS: tC len=3
+ANTES: tC len=3
+DEPOIS: tC len=3
+ANTES: tC len=3
+DEPOIS: tC len=3
+ANTES: tC len=3
+DEPOIS: tC len=3
+ANTES: tC len=3
+DEPOIS: tC len=3
+ANTES: tC len=3
+DEPOIS: tC len=3
+NAO
+
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+ANTES: Tucson Fuel Cell len=17
+DEPOIS: Tucson Fuel Cell len=17
+NAO
+
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+ANTES: CR-Z len=5
+DEPOIS: CR-Z len=5
+NAO
+
+ANTES: Cayman len=7
+DEPOIS: Cayman len=7
+ANTES: Cayman len=7
+DEPOIS: Cayman len=7
+ANTES: Cayman len=7
+DEPOIS: Cayman len=7
+ANTES: Cayman len=7
+DEPOIS: Cayman len=7
+ANTES: Cayman len=7
+DEPOIS: Cayman len=7
+NAO
+
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+ANTES: Jaguar XK Convertible len=22
+DEPOIS: Jaguar XK Convertible len=22
+NAO
+
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+ANTES: ILX len=4
+DEPOIS: ILX len=4
+NAO
+
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+ANTES: Veloster N len=11
+DEPOIS: Veloster N len=11
+NAO
+
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+ANTES: 911 Carrera 4S len=15
+DEPOIS: 911 Carrera 4S len=15
+NAO
+
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+ANTES: Portofino len=10
+DEPOIS: Portofino len=10
+NAO
+
+ANTES: Santa Fe 4WD len=13
+DEPOIS: Santa Fe 4WD len=13
+ANTES: Santa Fe 4WD len=13
+DEPOIS: Santa Fe 4WD len=13
+ANTES: Santa Fe 4WD len=13
+DEPOIS: Santa Fe 4WD len=13
+ANTES: Santa Fe 4WD len=13
+DEPOIS: Santa Fe 4WD len=13
+ANTES: Santa Fe 4WD len=13
+DEPOIS: Santa Fe 4WD len=13
+NAO
+
+ANTES: TT Coupe quattro len=17
+DEPOIS: TT Coupe quattro len=17
+ANTES: TT Coupe quattro len=17
+DEPOIS: TT Coupe quattro len=17
+ANTES: TT Coupe quattro len=17
+DEPOIS: TT Coupe quattro len=17
+ANTES: TT Coupe quattro len=17
+DEPOIS: TT Coupe quattro len=17
+ANTES: TT Coupe quattro len=17
+DEPOIS: TT Coupe quattro len=17
+NAO
+
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+ANTES: Prius Plug-in Hybrid len=21
+DEPOIS: Prius Plug-in Hybrid len=21
+NAO
+
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+ANTES: 528i xDrive len=12
+DEPOIS: 528i xDrive len=12
+NAO
+
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+ANTES: A 220 4MATIC len=13
+DEPOIS: A 220 4MATIC len=13
+NAO
+
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+ANTES: 718 Cayman S len=13
+DEPOIS: 718 Cayman S len=13
+NAO
+
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+ANTES: CRUZE len=6
+DEPOIS: CRUZE len=6
+NAO
+
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+ANTES: PRIUS c len=8
+DEPOIS: PRIUS c len=8
+NAO
+
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+ANTES: TLX AWD A-SPEC len=15
+DEPOIS: TLX AWD A-SPEC len=15
+NAO
+
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+ANTES: AMG GT (roadster) len=18
+DEPOIS: AMG GT (roadster) len=18
+NAO
+
