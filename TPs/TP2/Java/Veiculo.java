@@ -76,6 +76,10 @@ public class Veiculo {
 		return marca;
 	}
 
+	public String getModelo() {
+		return modelo;
+	}
+
 	public double getCilindrada() {
 		return cilindrada;
 	}
